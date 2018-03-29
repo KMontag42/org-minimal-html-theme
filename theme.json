@@ -1,14 +1,14 @@
 {
   "table-of-contents": false,
   "section-numbers": false,
-  "postamble": true,
+  "postamble": false,
   "fancy-lists": true,
   "fancy-icons": true,
   "back-to-top": true,
   "back-to-top-text": "Back to top",
   "collection": {
-    "enabled": false,
-    "avatar": "",
+    "enabled": true,
+    "avatar": "https://avatars3.githubusercontent.com/u/1686738?s=400&u=7ac713f503b65f6db434d5b26b6ef640283cda89&v=4",
     "title": "Kyle",
     "url": "/"
   }
