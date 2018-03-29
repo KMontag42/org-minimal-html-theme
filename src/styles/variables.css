@@ -51,7 +51,7 @@
   --content-margin-bottom: 5rem;
 
   /* Container */
-  --container-max-width: 700px;
+  --container-max-width: 950px;
   --container-padding-horizontal: 1.5rem;
 
   /* Paragraphs */
@@ -101,7 +101,7 @@
   --table-border: 1px solid var(--color-light-gray);
   --table-bg: var(--color-lighter-gray);
   --table-heading-text-align: left;
-  --table-heading-border: 3px solid var(--color-light-gray);
+  --table-heading-border: 2px solid var(--color-gray);
 
   /* Links */
   --link-color: var(--color);

@@ -28,7 +28,7 @@ td {
   border-top: var(--table-border); /* [3] */
 }
 
-tbody > tr:nth-of-type(odd) { /* [4] */
+tbody > tr:nth-of-type(even) { /* [4] */
   background-color: var(--table-bg);
 }
 
@@ -36,6 +36,6 @@ thead > tr:first-of-type > th { /* [5] */
   border-top: 0;
 }
 
-thead > tr:first-of-type { /* [6] */
-  border-bottom: var(--table-heading-border);
+tbody > tr:first-of-type { /* [6] */
+  border-top: var(--table-heading-border);
 }
